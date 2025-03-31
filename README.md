@@ -58,4 +58,6 @@ sudo apt install mc
 
 <img src = "img/mc.png" width = 100%>
 
+mc
+
 <img src = "img/mc2.png" width = 100%>
