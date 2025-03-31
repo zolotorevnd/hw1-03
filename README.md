@@ -51,3 +51,11 @@
 <img src = "img/echo.png" width = 100%>
 
 <img src = "img/cat.png" width = 100%>
+
+### Задание 3
+
+sudo apt install mc
+
+<img src = "img/mc.png" width = 100%>
+
+<img src = "img/mc2.png" width = 100%>
