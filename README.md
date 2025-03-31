@@ -40,3 +40,14 @@
     sudo id
 
 Объясните, почему вывод одной и той же команды отличается в этих случаях.
+
+
+### Задание 1
+
+<img src = "img/console.png" width = 100%>
+
+### Задание 2
+
+<img src = "img/echo.png" width = 100%>
+
+<img src = "img/cat.png" width = 100%>
